@@ -15,6 +15,7 @@ class MahasiswaViewModel : ViewModel() {
     }
 }
 
+
 data class UiState(
     val dataDisimpan: Boolean = false
 )
